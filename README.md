@@ -1,7 +1,7 @@
 # JAVA Programming
 
-### [Course Link (Beginner)] (https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28)
-### [Course Link (Intermediate)] (https://www.youtube.com/playlist?list=PL27BCE863B6A864E3)
+### [Course Link (Beginner)](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28)
+### [Course Link (Intermediate)](https://www.youtube.com/playlist?list=PL27BCE863B6A864E3)
 
 First ensure that you have downloaded Java JDK from the official website.<br>
 
